@@ -285,6 +285,36 @@
       "period": "상시",
       "content": "하이브리드 3.0: $59→$37($22할인). 에이블2.0: $59→$11($48할인). 에이블2.0플러스: $46→$15($31할인)",
       "note": "에이블2.0 쿠폰 제시 시 선적용"
+    },
+    {
+      "name": "T1 입국장 주류 2병 20% 행사",
+      "brand": "복수브랜드",
+      "period": "2026.04 (현재 진행중)",
+      "content": "리스트 내 상품 2병 구매시 20% 할인 (교차 구매 가능). 담배 추가 구매시 +5% 가능 (합계 25%). 카카오 친구추가 5% 또는 환율보상 3% 중 택1 가능 (합계 25% 또는 23%). 단 담배 5%와 카카오/환율보상 중복 불가. 최대 25%",
+      "note": "헤네시 XO도 이번 행사 포함",
+      "products": [
+        {"name": "Dewars 15y 1L", "price": 64, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/dewars_15y.jpg"},
+        {"name": "Dewars 18y 1L", "price": 106, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/dewars_18y.jpg"},
+        {"name": "Ballantines 21Y Artist ED5 70cl", "price": 167, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/ballantines_21y.jpg"},
+        {"name": "Royal Salute 21Y 700ml", "price": 176, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/royal_salute_21y.jpg"},
+        {"name": "JW Blue Label 750ml", "price": 227, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/jw_blue_label.jpg"},
+        {"name": "Hennessy XO 700ml", "price": 231, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/hennessy_xo.jpg"},
+        {"name": "Glenmorangie Signet 700ml", "price": 198, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/glenmorangie_signet.jpg"},
+        {"name": "Kavalan Solist Vinho Barrique 1L", "price": 230, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/kavalan_solist.jpg"},
+        {"name": "Kavalan Concertmaster 1L", "price": 88, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/kavalan_concertmaster.jpg"},
+        {"name": "Glenfiddich Gran Reserva 21Y 700ml", "price": 264, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/glenfiddich_gran_reserva.jpg"},
+        {"name": "Glenfiddich VAT04 Perpetual 18Y 700ml", "price": 145, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/glenfiddich_18y_vat04.jpg"},
+        {"name": "Camus Borderies Royal Banquet", "price": 399, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/camus_royal_banquet.jpg"},
+        {"name": "Suntory Chita 700ml", "price": 73, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/suntory_chita.jpg"},
+        {"name": "Remy Martin VSOP 1000ml", "price": 102, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/remy_martin_vsop.jpg"},
+        {"name": "Wild Turkey Rare Breed 1L", "price": 63, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/wild_turkey_rare_breed.jpg"},
+        {"name": "Jack Daniels American Single Malt 1L", "price": 100, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/jd_american_single_malt.jpg"},
+        {"name": "Remy Martin XO 700ml", "price": 246, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/remy_martin_xo.jpg"},
+        {"name": "Wuliangye 52% 500ml", "price": 156, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/wuliangye.jpg"},
+        {"name": "Laphroaig PX Cask 1000ml", "price": 120, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/laphroaig_px_cask.jpg"},
+        {"name": "Laphroaig Legacy 700ml", "price": 111, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/laphroaig_legacy.jpg"},
+        {"name": "Mengzhilan M6 500ml", "price": 121, "image": "https://kimjinwon21-creator.github.io/discount-ai/images/mengzhilan_m6.jpg"}
+      ]
     }
   ]
 }
