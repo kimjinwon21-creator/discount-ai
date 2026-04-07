@@ -64,7 +64,7 @@
       "name": "바샤",
       "category": "식품",
       "exchange_rate_3": "가능",
-      "condition": "",
+      "condition": "환율보상 3% 외 어떤 할인도 불가",
       "note": "커피. 환율보상 가능, 조건 없음"
     },
     {
@@ -195,10 +195,10 @@
     },
     {
       "name": "알로하",
-      "category": "화장품",
+      "category": "잡화",
       "exchange_rate_3": "불가",
-      "condition": "전 제품 불가",
-      "note": ""
+      "condition": "1+1 행사 / 1개 구매 시 50% 가능",
+      "note": "1개 구매 안내는 삼가"
     },
     {
       "name": "킨더부에노 (FERRERO)",
